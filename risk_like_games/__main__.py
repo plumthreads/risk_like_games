@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for risk_like_games."""
 
 from .cli import main  # pragma: no cover
 
